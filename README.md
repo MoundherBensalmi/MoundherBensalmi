@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 👨‍💻 Software engineering student at Univ Constantine 2 (since 2019)
+- 🌱 I’m currently learning somthing
+- 💬 Ask me about Karate Do 🥋
+- ⚡ Fun fact: i started hating this fild, just kiding
 <!--
 **MoundherBensalmi/MoundherBensalmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
